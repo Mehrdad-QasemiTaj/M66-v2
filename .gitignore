@@ -3,3 +3,12 @@ Hardware/M66-v2/__Previews
 *.PrjPCBStructure
 *.PrjPCBSettings
 *.PrjPCBVariants
+*.OutJob
+*.DRC
+*.ERC
+*.Log
+*.html
+*.xml
+*.csv
+*.txt
+*.pdf

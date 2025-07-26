@@ -1021,25 +1021,6 @@ UpdateVariants=1
 UpdateToLatestRevision=1
 PartTypes=0
 
-[NetInfos]
-Net1=NetName=3V3|NetColor=$000066FF
-Net2=NetName=5V|NetColor=$000000CC
-Net3=NetName=GND|NetColor=clBlue
-Net4=NetName=NetC7_2|NetColor=clYellow
-Net5=NetName=NetJ5_1|NetColor=$0000BE00
-Net6=NetName=NetJ5_2|NetColor=$0000BE00
-Net7=NetName=NetMC1_17|NetColor=$0000BE00
-Net8=NetName=NetMC1_18|NetColor=$0000BE00
-Net9=NetName=uRX1|NetColor=$0000BE00
-Net10=NetName=uRX2|NetColor=$0000BE00
-Net11=NetName=uSCL|NetColor=$00FF6EFF
-Net12=NetName=uSDA|NetColor=$00FF6EFF
-Net13=NetName=uSWCLK|NetColor=$00FFFF6E
-Net14=NetName=uSWDIO|NetColor=$00FFFF6E
-Net15=NetName=uTX1|NetColor=$0000BE00
-Net16=NetName=uTX2|NetColor=$0000BE00
-Net17=NetName=VBAT|NetColor=$00006699
-
 [Comparison Options]
 ComparisonOptions0=Kind=Net|MinPercent=75|MinMatch=3|ShowMatch=0|UseName=-1|InclAllRules=0
 ComparisonOptions1=Kind=Net Class|MinPercent=75|MinMatch=3|ShowMatch=0|UseName=-1|InclAllRules=0
